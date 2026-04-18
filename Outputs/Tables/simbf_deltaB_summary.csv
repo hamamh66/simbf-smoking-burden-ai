@@ -1,0 +1,9 @@
+metric,value
+original_simbf_mean,0.14603738337722083
+counterfactual_simbf_mean,0.06987682690426103
+reference_simbf_mean,0.0033510256874836725
+mean_delta_B,-0.07616055647295981
+median_delta_B,-0.0011125380634703478
+share_with_reduced_burden,0.5508969094445645
+mean_SII,0.14268635768973714
+median_SII,0.0033411975703241644

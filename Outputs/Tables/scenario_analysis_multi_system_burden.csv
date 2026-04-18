@@ -1,0 +1,4 @@
+scenario,mean_simbf
+observed,0.14603738337722083
+counterfactual,0.06987682690426103
+reference,0.0033510256874836725

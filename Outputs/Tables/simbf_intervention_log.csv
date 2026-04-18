@@ -1,0 +1,19 @@
+feature,direction,reference_value,rows_modified
+bmi,reduced toward reference,28.25,3026
+waist_cm,reduced toward reference,97.0,2985
+systolic_bp,reduced toward reference,122.0,2822
+diastolic_bp,reduced toward reference,72.0,2749
+glucose,reduced toward reference,93.0,2744
+triglycerides_mg_dl,reduced toward reference,112.0,2886
+total_cholesterol,reduced toward reference,183.0,2705
+alt,reduced toward reference,17.0,2763
+ast,reduced toward reference,19.0,2740
+ggt,reduced toward reference,20.0,2754
+alp,reduced toward reference,75.0,3230
+creatinine,reduced toward reference,0.81,2988
+bun,reduced toward reference,14.0,2484
+urine_albumin_mg_l,reduced toward reference,8.6,4056
+urine_creatinine_mg_dl,reduced toward reference,110.0,3745
+uacr_mg_g,reduced toward reference,7.416573971078976,4259
+weight_kg,reduced toward reference,76.65,3172
+egfr,increased toward reference,99.88506077667932,2854

@@ -1,0 +1,9 @@
+subgroup_variable,subgroup_value,n,accuracy,weighted_f1
+sex_label,female,592,0.7111486486486487,0.6503123366668659
+sex_label,male,580,0.5879310344827586,0.5665344610699089
+race_ethnicity_label,mexican_american,147,0.6054421768707483,0.5370806794189706
+race_ethnicity_label,non_hispanic_asian,151,0.7947019867549668,0.7319666368759371
+race_ethnicity_label,non_hispanic_black,285,0.6736842105263158,0.6347385402404985
+race_ethnicity_label,non_hispanic_white,410,0.5902439024390244,0.5789932675411597
+race_ethnicity_label,other_hispanic,125,0.736,0.6774948553678898
+race_ethnicity_label,other_race_multiracial,54,0.5,0.41904235436573745

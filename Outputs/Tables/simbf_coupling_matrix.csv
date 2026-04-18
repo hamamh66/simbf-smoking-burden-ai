@@ -1,0 +1,4 @@
+,cardiometabolic_risk_high,hepatic_risk_high,renal_risk_high
+cardiometabolic_risk_high,0.0,0.256851424662573,0.23891629757317115
+hepatic_risk_high,0.256851424662573,0.0,0.05851960103119322
+renal_risk_high,0.23891629757317115,0.05851960103119322,0.0
